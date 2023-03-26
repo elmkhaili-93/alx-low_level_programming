@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * positive_or_negative - entry point
+ * @i: numbre
+ * Return : always 0
+ */
 
 void positive_or_negative(int i)
 {
